@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
-- 🔭 I’m currently working on as a full stack software engineer at Eventbrite
+- 🔭 I’m currently working on as a full stack software engineer, with a bias for data and leveraging LLM's to streamline workflows
 - 🌱 Constantly workinn to learn more about integrating LLM's into applications
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pour-theoil)](https://github.com/anuraghazra/github-readme-stats)
